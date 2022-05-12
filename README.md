@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JesusUrias
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Data Structure
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
