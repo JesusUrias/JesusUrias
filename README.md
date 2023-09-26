@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JesusUrias
-- 👀 I’m interested in AI and Sofrware developing
+- 👀 I’m interested in AI and Software developing
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Neural Networks and HTML, CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
